@@ -1,3 +1,8 @@
+---
+title: "Untitled"
+output: github_document
+---
+
 # POWER AND SAMPLE SIZE CALCULATIONS FOR EPIDEMIOLOGIC STUDIES USING the `epiR` PACKAGE
 
 ## LOAD LIBRARIES
